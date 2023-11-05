@@ -4,7 +4,7 @@
 
  Où j'ai :
 
-* Généré ma clé 'ssh'
+* Généré ma clé `ssh`
 * profité de l'occasion pour m'entrainer à naviguer dans le *gitbash*
 * fais un peu de **markdown**
 * effectué des ***commit***
